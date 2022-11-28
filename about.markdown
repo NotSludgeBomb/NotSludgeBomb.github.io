@@ -3,16 +3,27 @@ layout: page
 title: About
 permalink: /about/
 ---
+Hello, I'm NotSludgeBomb (emphasis on the "Not", people tend to just call me "SludgeBomb" or "Sludge").
+I'm an open source software developer and Linux user, and I enjoy talking about both of those things.
+I also enjoy video games and speedcubing, though I don't discuss those as much, as Tux has taken over my mind.
+One of my main focuses in my discussions is Linux's approachability as an operating system, 
+and how we can make it easier for newcomers.
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I'm a massive sl\*t for Flatpak, Wayland, and GNOME. Proponent of Fedora Linux (though I don't use it
+myself because I'm nerdass).
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+# Hardware I Use
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+* Motherboard - MSI MAG A520M
+* CPU - Ryzen 5 4600G
+* (gpus were too expensive so i just got a g-series ryzen)
+* RAM - 2x8GB Team T-FORCE VULCAN Z
+* PSU - EVGA SuperNOVA 750 G5
 
+# Software I Use
 
-[jekyll-organization]: https://github.com/jekyll
+* Distro - Arch Linux
+* Desktop Environment - GNOME
+* Web Browser - Firefox
+* Messaging - Element / Fluffy Chat
+* IDE - VSCodium
