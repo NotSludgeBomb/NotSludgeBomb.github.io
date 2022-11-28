@@ -16,9 +16,9 @@ dl, dd, ol, ul, figure {
 body {
   font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
   color: $text-color;
+  background-color: lighten($background-color, 40%);
   background-image: url("../assets/background.jpg");
   background-position: center;
-  background-color: lighten($background-color, 40%);
   background-blend-mode: multiply;
   -webkit-text-size-adjust: 100%;
   -webkit-font-feature-settings: "kern" 1;
@@ -114,7 +114,7 @@ a {
   }
 
   &:hover {
-    color: $text-color;
+    color: lighten($brand-color, 5%);
     text-decoration: underline;
   }
 
@@ -126,7 +126,6 @@ a {
     }
   }
 }
-
 
 /**
  * Blockquotes
@@ -152,9 +151,8 @@ blockquote {
 pre,
 code {
   @include relative-font-size(0.9375);
-  border: 1px solid $grey-color-light;
-  border-radius: 3px;
-  background-color: #eef;
+  border-radius: 0px;
+  background-color: $background-color;
 }
 
 code {
@@ -166,7 +164,6 @@ pre {
   overflow-x: auto;
 
   > code {
-    border: 0;
     padding-right: 0;
     padding-left: 0;
   }
