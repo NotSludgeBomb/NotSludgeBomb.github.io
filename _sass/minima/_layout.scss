@@ -19,6 +19,7 @@
   float: left;
 
   &,
+  &:hover,
   &:visited {
     color: $text-color;
   }
