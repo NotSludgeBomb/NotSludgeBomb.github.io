@@ -1,29 +1,30 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Introduction"
 date:   2022-11-28 02:24:14 -0600
 
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Hello, I'm NotSludgeBomb (emphasis on the "Not", people tend to just call me "SludgeBomb" or "Sludge").
+I'm an open source software developer and Linux user, and I enjoy talking about both of those things.
+I also enjoy video games and speedcubing, though I don't discuss those as much, as Tux has taken over my mind.
+One of my main focuses in my discussions is Linux's approachability as an operating system, 
+and how we can make it easier for newcomers.
 
-Jekyll requires blog post files to be named according to the following format:
+I'm a massive sl\*t for Flatpak, Wayland, and GNOME. Proponent of Fedora Linux (though I don't use it
+myself because I'm nerdass).
 
-`YEAR-MONTH-DAY-title.MARKUP`
+# Hardware I Use
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+* Motherboard - MSI MAG A520M
+* CPU - Ryzen 5 4600G
+* (gpus were too expensive so i just got a g-series ryzen)
+* RAM - 2x8GB Team T-FORCE VULCAN Z
+* PSU - EVGA SuperNOVA 750 G5
 
-Jekyll also offers powerful support for code snippets:
+# Software I Use
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+* Distro - Arch Linux
+* Desktop Environment - GNOME
+* Web Browser - Firefox
+* Messaging - Element / Fluffy Chat
+* IDE - VSCodium
