@@ -18,6 +18,7 @@ body {
   color: $text-color;
   background-color: lighten($background-color, 40%);
   background-image: url("../assets/background.jpg");
+  background-attachment: fixed;
   background-position: center;
   background-blend-mode: multiply;
   -webkit-text-size-adjust: 100%;
