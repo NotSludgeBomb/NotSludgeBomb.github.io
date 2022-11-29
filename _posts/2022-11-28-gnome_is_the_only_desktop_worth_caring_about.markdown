@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "GNOME is the only desktop environment worth caring about"
+permalink: "/blog/gnome-is-the-only-desktop-environment-worth-caring-about"
 date:   2022-11-28 17:42:14 -0600
 
 ---

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Introduction"
+permalink: "/blog/introduction"
 date:   2022-11-28 02:24:14 -0600
 
 ---
