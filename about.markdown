@@ -4,13 +4,12 @@ title: About
 permalink: /about/
 ---
 Hello, I'm NotSludgeBomb (emphasis on the "Not", people tend to just call me "SludgeBomb" or "Sludge").
-I'm an open source software developer and Linux user, and I enjoy talking about both of those things.
-I also enjoy video games and speedcubing, though I don't discuss those as much, as Tux has taken over my mind.
-One of my main focuses in my discussions is Linux's approachability as an operating system, 
-and how we can make it easier for newcomers.
+I'm an open source software developer and Linux user. I use this blog to talk about Linxu and open
+source software. One of my main focuses is Linux's approachability as an operating system, and how we 
+can make it easier for newcomers.
 
-I'm a massive sl\*t for Flatpak, Wayland, and GNOME. Proponent of Fedora Linux (though I don't use it
-myself because I'm nerdass).
+I'm a massive sl\*t for Flatpak, Wayland, GNOME, and Fedora Linux. Anti-sl\*t for Snaps, x11, and
+KDE Plasma.
 
 # Hardware I Use
 
@@ -22,7 +21,7 @@ myself because I'm nerdass).
 
 # Software I Use
 
-* Distro - Arch Linux
+* Distro - Fedora Workstation 37
 * Desktop Environment - GNOME
 * Web Browser - Firefox
 * Messaging - Element / Fluffy Chat
